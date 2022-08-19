@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background: radial-gradient(
+    circle,
+    rgb(239, 129, 40) 0%,
+    rgb(239, 150, 190) 0%,
+    rgb(148, 199, 241) 100%
+  );
+}
